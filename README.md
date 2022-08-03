@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 
 ## 🌱 Education
-충남대학교 컴퓨터공학과 2017.3~ 2023.03
-주전공 : 컴퓨터공학과
-부전공 : smart e-trade
+충남대학교 컴퓨터공학과 2017.3~ 2023.03  
+주전공 : 컴퓨터공학과  
+부전공 : smart e-trade  
 
 
 
@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 
 ## 🌱position
-### web programming
-### full-statck 
+##### web programming
+##### full-statck developer
 
 
 
