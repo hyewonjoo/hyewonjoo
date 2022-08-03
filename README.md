@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## 🌱position
 ##### web programming
-##### full-statck developer
+##### full-stack developer
 
 
 
